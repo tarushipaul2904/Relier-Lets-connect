@@ -15,5 +15,5 @@ function openNav() {
     localStorage.removeItem("parent_username", parent_username);
     localStorage.removeItem("parent_password", parent_password);
 
-    window.location = "login_page.html"
+    window.location = "index.html"
   }
